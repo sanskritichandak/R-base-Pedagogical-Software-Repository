@@ -42,7 +42,7 @@ Open-Source Resources
 - Being an adaptable, content enhancing tool
 
 Looking Forward 
-- Compilation of a year-long statistics course
+- Compilation of a year-long statistics course - currently in development stage
 - Frequentist Approach
 - Big Data Approach
 - Providing students and faculty with access through GitHub
